@@ -1,2 +1,2 @@
 currentVersion:1.73
-newUdates:Added VUC Timestamps
+newUdates: General Tool updates
