@@ -1,2 +1,2 @@
-currentVersion:1.73
-newUdates: General Tool updates
+currentVersion:1.74
+newUdates: PNC log infos added
