@@ -1,2 +1,2 @@
-currentVersion:1.74
-newUdates: PNC log infos added
+currentVersion:1.75
+newUdates: Tracks VuC LifeCycle & PowerUp Time count
