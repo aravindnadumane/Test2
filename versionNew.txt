@@ -1,2 +1,2 @@
 currentVersion:1.78
-newUdates:PM log updates Keep awakes and COM status
+newUdates:PM log updates:Keep awakes and COM status
