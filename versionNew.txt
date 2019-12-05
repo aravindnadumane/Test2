@@ -1,2 +1,2 @@
-currentVersion:1.78
-newUdates:PM log updates:Keep awakes and COM status
+currentVersion:1.79
+newUdates:addtional Plain Text. clean com port Termination. Fixed html report generation (verified)
