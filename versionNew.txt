@@ -1,2 +1,2 @@
 currentVersion:1.79
-newUdates:addtional Plain Text. clean com port Termination. Fixed html report generation (verified)
+newUdates:Addtional Plain Text log. Clean com port Termination. Fixed html report generation (verified)
