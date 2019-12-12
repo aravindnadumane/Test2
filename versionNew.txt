@@ -1,2 +1,2 @@
-currentVersion:1.80
-newUdates:Addtional Plain Text, Raw binary log
+currentVersion:1.81
+newUdates:Addtional Plain Text, Raw binary log, Dlt Format log
