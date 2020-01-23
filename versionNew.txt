@@ -1,2 +1,2 @@
-currentVersion:1.81
-newUdates:Addtional Plain Text, Raw binary log, Dlt Format log
+currentVersion:1.83
+newUdates:Crpyto Log pattern matched
