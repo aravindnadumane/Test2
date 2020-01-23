@@ -1,2 +1,2 @@
-currentVersion:1.83
-newUdates:Crpyto Log pattern matched
+currentVersion:1.84
+newUdates:Crpyto, Task Exec Log pattern matched
